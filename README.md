@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I like building for the web, I like building fun things, useful things, and not so useful things 😅
+The web is my canvas, a canvas where I can build whatever I want and share it with the world, no need to download anything or get locked in a closed ecosystem to use the things I've built, all you need is a URL and an internet connection.
+
+Most of my skills lay in frontend engineering, I know my way around the backend and I have a small niche for design.
+
+I use my skills to help companies build or showcase their products or business on the web and I ensure that it remains performant ⚡, maintainable 🛠, accessible ♿, and maybe add a sprinkle of animation ✨.
+
+My current stack is React, Typescript, CSS-in-JS, Next.js, Gatsby.js, GraphQL, and Node.js. 
